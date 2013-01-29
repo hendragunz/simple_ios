@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+    <TOC>
+        <Node type="folder">
+            <Name>LROAuth2Client 0.0.1</Name>
+            <Path>index.html</Path>
+			<Subnodes>
+                
+				
+				<Node type="folder">
+					<Name>Classes</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="1"/>
+						<NodeRef refid="2"/>
+						<NodeRef refid="3"/>
+						
+					</Subnodes>
+				</Node>
+				
+				
+				<Node type="folder">
+					<Name>Categories</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="4"/>
+						<NodeRef refid="5"/>
+						<NodeRef refid="6"/>
+						
+					</Subnodes>
+				</Node>
+				
+				
+				<Node type="folder">
+					<Name>Protocols</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="7"/>
+						
+					</Subnodes>
+				</Node>
+				
+			</Subnodes>
+        </Node>
+    </TOC>
+	<Library>
+		
+		<Node id="1">
+			<Name>LROAuth2AccessToken</Name>
+			<Path>Classes/LROAuth2AccessToken.html</Path>
+		</Node>
+		<Node id="2">
+			<Name>LROAuth2Client</Name>
+			<Path>Classes/LROAuth2Client.html</Path>
+		</Node>
+		<Node id="3">
+			<Name>LRURLRequestOperation</Name>
+			<Path>Classes/LRURLRequestOperation.html</Path>
+		</Node>
+		
+		<Node id="4">
+			<Name>NSDictionary(QueryString)</Name>
+			<Path>Categories/NSDictionary+QueryString.html</Path>
+		</Node>
+		<Node id="5">
+			<Name>NSString(QueryString)</Name>
+			<Path>Categories/NSString+QueryString.html</Path>
+		</Node>
+		<Node id="6">
+			<Name>NSURL(QueryInspector)</Name>
+			<Path>Categories/NSURL+QueryInspector.html</Path>
+		</Node>
+		
+		<Node id="7">
+			<Name>LROAuth2ClientDelegate</Name>
+			<Path>Protocols/LROAuth2ClientDelegate.html</Path>
+		</Node>
+		
+	</Library>
+</DocSetNodes>

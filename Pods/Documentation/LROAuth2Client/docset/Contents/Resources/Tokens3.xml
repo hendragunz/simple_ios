@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LRURLRequestOperation.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LRURLRequestOperation</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/setURLRequest:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong) NSURLRequest *URLRequest</Declaration>
+			
+			
+			<Anchor>//api/name/URLRequest</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LRURLRequestOperation/URLRequest</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong) NSURLRequest *URLRequest</Declaration>
+			
+			
+			<Anchor>//api/name/URLRequest</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/setURLResponse:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSURLResponse *URLResponse</Declaration>
+			
+			
+			<Anchor>//api/name/URLResponse</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LRURLRequestOperation/URLResponse</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSURLResponse *URLResponse</Declaration>
+			
+			
+			<Anchor>//api/name/URLResponse</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/setConnectionError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSError *connectionError</Declaration>
+			
+			
+			<Anchor>//api/name/connectionError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LRURLRequestOperation/connectionError</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSError *connectionError</Declaration>
+			
+			
+			<Anchor>//api/name/connectionError</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/setResponseData:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSData *responseData</Declaration>
+			
+			
+			<Anchor>//api/name/responseData</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LRURLRequestOperation/responseData</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, strong, readonly) NSData *responseData</Declaration>
+			
+			
+			<Anchor>//api/name/responseData</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/initWithURLRequest:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithURLRequest:(NSURLRequest *)request</Declaration>
+			
+			
+			<Anchor>//api/name/initWithURLRequest:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/finish</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)finish</Declaration>
+			
+			
+			<Anchor>//api/name/finish</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/cancelImmediately</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)cancelImmediately</Declaration>
+			
+			
+			<Anchor>//api/name/cancelImmediately</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/connection:didReceiveResponse:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)theResponse</Declaration>
+			
+			
+			<Anchor>//api/name/connection:didReceiveResponse:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/connection:didReceiveData:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)data</Declaration>
+			
+			
+			<Anchor>//api/name/connection:didReceiveData:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/connectionDidFinishLoading:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)connectionDidFinishLoading:(NSURLConnection *)connection</Declaration>
+			
+			
+			<Anchor>//api/name/connectionDidFinishLoading:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LRURLRequestOperation/connection:didFailWithError:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LRURLRequestOperation.h</DeclaredIn>			
+			
+			<Declaration>- (void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error</Declaration>
+			
+			
+			<Anchor>//api/name/connection:didFailWithError:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

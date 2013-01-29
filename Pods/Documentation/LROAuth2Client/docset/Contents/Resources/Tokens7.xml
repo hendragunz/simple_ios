@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/LROAuth2ClientDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/LROAuth2ClientDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2ClientDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="7"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/LROAuth2ClientDelegate/oauthClientDidReceiveAccessToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2ClientDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)oauthClientDidReceiveAccessToken:(LROAuth2Client *)client</Declaration>
+			
+			
+			<Anchor>//api/name/oauthClientDidReceiveAccessToken:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/LROAuth2ClientDelegate/oauthClientDidRefreshAccessToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2ClientDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)oauthClientDidRefreshAccessToken:(LROAuth2Client *)client</Declaration>
+			
+			
+			<Anchor>//api/name/oauthClientDidRefreshAccessToken:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/LROAuth2ClientDelegate/oauthClientDidReceiveAccessCode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2ClientDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)oauthClientDidReceiveAccessCode:(LROAuth2Client *)client</Declaration>
+			
+			
+			<Anchor>//api/name/oauthClientDidReceiveAccessCode:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/LROAuth2ClientDelegate/oauthClientDidCancel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2ClientDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (void)oauthClientDidCancel:(LROAuth2Client *)client</Declaration>
+			
+			
+			<Anchor>//api/name/oauthClientDidCancel:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

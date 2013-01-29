@@ -8,6 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
+
+@property (retain, nonatomic) IBOutlet UITableView *questionsList;
+@property (retain, nonatomic) NSMutableArray *questions;
+
+
+// connection
+@property (retain, nonatomic) NSURLConnection *connection;
+@property (retain, nonatomic) NSMutableData *question_data;
+@property (retain, nonatomic) NSMutableURLRequest* request;
+
+- (IBAction)loginOAuth:(id)sender;
 
 @end

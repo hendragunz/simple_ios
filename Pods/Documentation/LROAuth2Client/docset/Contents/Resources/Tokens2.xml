@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LROAuth2Client.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LROAuth2Client</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setClientID:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *clientID</Declaration>
+			
+			
+			<Anchor>//api/name/clientID</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/clientID</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *clientID</Declaration>
+			
+			
+			<Anchor>//api/name/clientID</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setClientSecret:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *clientSecret</Declaration>
+			
+			
+			<Anchor>//api/name/clientSecret</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/clientSecret</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSString *clientSecret</Declaration>
+			
+			
+			<Anchor>//api/name/clientSecret</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setRedirectURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *redirectURL</Declaration>
+			
+			
+			<Anchor>//api/name/redirectURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/redirectURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *redirectURL</Declaration>
+			
+			
+			<Anchor>//api/name/redirectURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setCancelURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *cancelURL</Declaration>
+			
+			
+			<Anchor>//api/name/cancelURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/cancelURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *cancelURL</Declaration>
+			
+			
+			<Anchor>//api/name/cancelURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setUserURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *userURL</Declaration>
+			
+			
+			<Anchor>//api/name/userURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/userURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *userURL</Declaration>
+			
+			
+			<Anchor>//api/name/userURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setTokenURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *tokenURL</Declaration>
+			
+			
+			<Anchor>//api/name/tokenURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/tokenURL</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, copy) NSURL *tokenURL</Declaration>
+			
+			
+			<Anchor>//api/name/tokenURL</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setAccessToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) LROAuth2AccessToken *accessToken</Declaration>
+			
+			
+			<Anchor>//api/name/accessToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/accessToken</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) LROAuth2AccessToken *accessToken</Declaration>
+			
+			
+			<Anchor>//api/name/accessToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, unsafe_unretained) id&lt;LROAuth2ClientDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, unsafe_unretained) id&lt;LROAuth2ClientDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/setDebug:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL debug</Declaration>
+			
+			
+			<Anchor>//api/name/debug</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2Client/debug</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, assign) BOOL debug</Declaration>
+			
+			
+			<Anchor>//api/name/debug</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/initWithClientID:secret:redirectURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithClientID:(NSString *)_clientID secret:(NSString *)_secret redirectURL:(NSURL *)url</Declaration>
+			
+			
+			<Anchor>//api/name/initWithClientID:secret:redirectURL:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/userAuthorizationRequestWithParameters:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (NSURLRequest *)userAuthorizationRequestWithParameters:(NSDictionary *)additionalParameters</Declaration>
+			
+			
+			<Anchor>//api/name/userAuthorizationRequestWithParameters:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/verifyAuthorizationWithAccessCode:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (void)verifyAuthorizationWithAccessCode:(NSString *)accessCode</Declaration>
+			
+			
+			<Anchor>//api/name/verifyAuthorizationWithAccessCode:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/refreshAccessToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (void)refreshAccessToken:(LROAuth2AccessToken *)_accessToken</Declaration>
+			
+			
+			<Anchor>//api/name/refreshAccessToken:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/authorizeUsingWebView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (void)authorizeUsingWebView:(UIWebView *)webView</Declaration>
+			
+			
+			<Anchor>//api/name/authorizeUsingWebView:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/authorizeUsingWebView:additionalParameters:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (void)authorizeUsingWebView:(UIWebView *)webView additionalParameters:(NSDictionary *)additionalParameters</Declaration>
+			
+			
+			<Anchor>//api/name/authorizeUsingWebView:additionalParameters:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2Client/extractAccessCodeFromCallbackURL:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2Client.h</DeclaredIn>			
+			
+			<Declaration>- (void)extractAccessCodeFromCallbackURL:(NSURL *)url</Declaration>
+			
+			
+			<Anchor>//api/name/extractAccessCodeFromCallbackURL:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

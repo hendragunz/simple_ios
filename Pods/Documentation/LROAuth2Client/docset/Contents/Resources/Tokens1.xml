@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/LROAuth2AccessToken.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/LROAuth2AccessToken</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/setAccessToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (unsafe_unretained, nonatomic, readonly) NSString *accessToken</Declaration>
+			
+			
+			<Anchor>//api/name/accessToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2AccessToken/accessToken</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (unsafe_unretained, nonatomic, readonly) NSString *accessToken</Declaration>
+			
+			
+			<Anchor>//api/name/accessToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/setRefreshToken:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (unsafe_unretained, nonatomic, readonly) NSString *refreshToken</Declaration>
+			
+			
+			<Anchor>//api/name/refreshToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2AccessToken/refreshToken</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (unsafe_unretained, nonatomic, readonly) NSString *refreshToken</Declaration>
+			
+			
+			<Anchor>//api/name/refreshToken</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/setExpiresAt:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *expiresAt</Declaration>
+			
+			
+			<Anchor>//api/name/expiresAt</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/LROAuth2AccessToken/expiresAt</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *expiresAt</Declaration>
+			
+			
+			<Anchor>//api/name/expiresAt</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/initWithAuthorizationResponse:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>- (id)initWithAuthorizationResponse:(NSDictionary *)_data</Declaration>
+			
+			
+			<Anchor>//api/name/initWithAuthorizationResponse:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/refreshFromAuthorizationResponse:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>- (void)refreshFromAuthorizationResponse:(NSDictionary *)_data</Declaration>
+			
+			
+			<Anchor>//api/name/refreshFromAuthorizationResponse:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/LROAuth2AccessToken/hasExpired</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>LROAuth2AccessToken.h</DeclaredIn>			
+			
+			<Declaration>- (BOOL)hasExpired</Declaration>
+			
+			
+			<Anchor>//api/name/hasExpired</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>
